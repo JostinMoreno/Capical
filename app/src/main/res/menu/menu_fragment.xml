@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/ingresosFragment"
+        android:title="@string/ingresos"
+        android:icon="@drawable/ingresosico"/>
+    <item android:id="@+id/gastosFragment"
+        android:title="@string/gastos"
+        android:icon="@drawable/gastosico"        />
+
+    <item android:id="@+id/reportesFragment"
+        android:title="@string/reportes"
+        android:icon="@drawable/reportesico"/>
+
+    <item android:id="@+id/inventarioFragment"
+        android:title="@string/inventario"
+        android:icon="@drawable/inventarioico"/>
+</menu>
